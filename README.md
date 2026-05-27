@@ -8,8 +8,8 @@ via 3D Gaussian Splatting with an interactive browser-based WebGL viewer.
 
 ## Demo
 
-[insert screenshot of aviation site here]
-[insert screenshot of WebGL viewer here]
+<img width="1179" height="543" alt="aviation_site png" src="https://github.com/user-attachments/assets/dce9924e-0e16-4ac1-b15d-3367b329065d" />
+<img width="959" height="505" alt="Screenshot 2026-05-21 213400" src="https://github.com/user-attachments/assets/836e357a-cc02-4402-beb1-6777a400cda8" />
 
 ---
 
