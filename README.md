@@ -58,6 +58,7 @@ Sensors
 LiDAR depth initialization (FastLIVO2) is essential for indoor 3DGS quality.
 Camera-only methods (COLMAP + phone) produce severe floating artifacts in 
 low-texture environments. Drone video COLMAP failed entirely after 72h.
+Mean reprojection error: 0.24px across all sites.
 
 ---
 
