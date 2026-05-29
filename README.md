@@ -33,7 +33,6 @@ no software installation required.
 
 | Site | Method | Splats | Status |
 |------|--------|--------|--------|
-| Aviation exhibition | Panoramic + UAV fusion | 9,995,456 | ✅ Complete |
 | CS building exterior | UAV drone | 2,876,225 | ✅ Complete |
 | Full campus aerial | UAV (4-block survey) | 7,874,493 | ✅ Complete 
 ---
